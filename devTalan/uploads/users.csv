@@ -1,0 +1,6 @@
+firstname,lastname,dateOfBirth,email,password,image,role
+Yasmine,BenAli,1993-03-18,yasmine.benali@example.com,passYas123,yasmine.png,ROLE_USER
+Khalil,Mansour,1988-09-30,khalil.m@example.com,passKhalil456,khalil.jpg,ROLE_ADMIN
+Inès,Trabelsi,1997-06-05,ines.trabelsi@example.com,ines789,ines.jpeg,ROLE_USER
+Nidhal,Zribi,1982-12-11,nidhal.z@example.com,nidhal000,nidhal.png,ROLE_USER
+Sarra,Ayari,1996-04-22,sarra.a@example.com,sarra111,sarra.jpg,ROLE_USER
